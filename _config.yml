@@ -29,7 +29,16 @@ baseurl: /Blog
 
 feed:
   output: true
-  
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page/note/basic"
+
+
 # Build settings
 remote_theme: jekyll/minima
 
