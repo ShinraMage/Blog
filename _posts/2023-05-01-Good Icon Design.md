@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "What are good icons"
 date:   2023-05-01 10:00:00 +0800
 tags: [Design]
