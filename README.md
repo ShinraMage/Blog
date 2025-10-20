@@ -1,2 +1,2 @@
-# shinramage.github.io
+# Blog
 
