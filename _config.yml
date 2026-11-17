@@ -27,11 +27,10 @@ repository: ShinraMage/Blog
 description: Blog
 baseurl: /Blog
 
+future: true
+
 feed:
   output: true
-  
-# Build settings
-remote_theme: jekyll/minima
 
 exclude:
   - _includes/.git/
@@ -39,6 +38,7 @@ exclude:
   - _layouts/page/.git/
   - assets/.git/
 
+remote_theme: jekyll/minima
 minima:
   skin: dark
 
